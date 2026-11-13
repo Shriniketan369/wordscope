@@ -1,0 +1,1 @@
+NVIDIA GPUs rely on fast memory to keep their cores busy. HBM, or high bandwidth memory, stacks memory chips close to the GPU to raise bandwidth. The memory bandwidth of a GPU often decides how fast it can train a model. NVIDIA keeps pushing memory capacity and speed with each new GPU generation.
